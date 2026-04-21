@@ -1,0 +1,105 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "Mp3 to bluetooth",
+			"path": "E:/Dev/PlatformIO/Mp3 to bluetooth"
+		},
+		{
+			"name": "esp_audio_test",
+			"path": "E:/Dev/PlatformIO/esp_audio_test"
+		},
+		{
+			"name": "EspProjectControllerReciveCode",
+			"path": "E:/Dev/PlatformIO/EspProjectControllerReciveCode"
+		},
+		{
+			"name": "TryGifRender",
+			"path": "E:/Dev/TryGifRender"
+		},
+		{
+			"name": "Try3d",
+			"path": "E:/Dev/PlatformIO/Try3d"
+		},
+		{
+			"name": "Avatar",
+			"path": "E:/Dev/PlatformIO/Avatar"
+		},
+		{
+			"name": "TryAudioBluetooth",
+			"path": "E:/Dev/PlatformIO/TryAudioBluetooth"
+		},
+		{
+			"name": "WebRadioCardputer",
+			"path": "E:/Dev/PlatformIO/WebRadioCardputer"
+		},
+		{
+			"name": "Esp32Cam",
+			"path": "E:/Dev/PlatformIO/Esp32Cam"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"new": "cpp",
+			"string": "cpp",
+			"musicrabbit.c": "cpp",
+			"rabbitpa.c": "cpp",
+			"random": "cpp",
+			"topbaricons.c": "cpp",
+			"array": "cpp",
+			"string_view": "cpp",
+			"initializer_list": "cpp",
+			"utility": "cpp",
+			"mainmenupic.c": "cpp",
+			"atomic": "cpp",
+			"*.tcc": "cpp",
+			"cctype": "cpp",
+			"chrono": "cpp",
+			"clocale": "cpp",
+			"cmath": "cpp",
+			"cstdarg": "cpp",
+			"cstddef": "cpp",
+			"cstdint": "cpp",
+			"cstdio": "cpp",
+			"cstdlib": "cpp",
+			"cstring": "cpp",
+			"ctime": "cpp",
+			"cwchar": "cpp",
+			"cwctype": "cpp",
+			"deque": "cpp",
+			"list": "cpp",
+			"unordered_map": "cpp",
+			"unordered_set": "cpp",
+			"vector": "cpp",
+			"exception": "cpp",
+			"algorithm": "cpp",
+			"functional": "cpp",
+			"iterator": "cpp",
+			"map": "cpp",
+			"memory": "cpp",
+			"memory_resource": "cpp",
+			"numeric": "cpp",
+			"optional": "cpp",
+			"ratio": "cpp",
+			"set": "cpp",
+			"system_error": "cpp",
+			"tuple": "cpp",
+			"type_traits": "cpp",
+			"fstream": "cpp",
+			"iomanip": "cpp",
+			"iosfwd": "cpp",
+			"iostream": "cpp",
+			"istream": "cpp",
+			"limits": "cpp",
+			"ostream": "cpp",
+			"sstream": "cpp",
+			"stdexcept": "cpp",
+			"streambuf": "cpp",
+			"thread": "cpp",
+			"cinttypes": "cpp",
+			"typeinfo": "cpp"
+		}
+	}
+}

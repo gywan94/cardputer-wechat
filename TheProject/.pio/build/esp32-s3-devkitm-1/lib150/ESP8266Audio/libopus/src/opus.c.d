@@ -1,0 +1,26 @@
+.pio/build/esp32-s3-devkitm-1/lib150/ESP8266Audio/libopus/src/opus.c.o: \
+ .pio/libdeps/esp32-s3-devkitm-1/ESP8266Audio/src/libopus/src/opus.c \
+ .pio/libdeps/esp32-s3-devkitm-1/ESP8266Audio/src/libopus/src/config.h \
+ .pio/libdeps/esp32-s3-devkitm-1/ESP8266Audio/src/libopus/src/../include/config.h \
+ .pio/libdeps/esp32-s3-devkitm-1/ESP8266Audio/src/libopus/src/opus.h \
+ .pio/libdeps/esp32-s3-devkitm-1/ESP8266Audio/src/libopus/src/../include/opus.h \
+ .pio/libdeps/esp32-s3-devkitm-1/ESP8266Audio/src/libopus/src/../include/opus_types.h \
+ .pio/libdeps/esp32-s3-devkitm-1/ESP8266Audio/src/libopus/src/../include/opus_defines.h \
+ .pio/libdeps/esp32-s3-devkitm-1/ESP8266Audio/src/libopus/src/opus_private.h \
+ .pio/libdeps/esp32-s3-devkitm-1/ESP8266Audio/src/libopus/src/arch.h \
+ .pio/libdeps/esp32-s3-devkitm-1/ESP8266Audio/src/libopus/src/../celt/arch.h \
+ .pio/libdeps/esp32-s3-devkitm-1/ESP8266Audio/src/libopus/src/../celt/opus_types.h \
+ .pio/libdeps/esp32-s3-devkitm-1/ESP8266Audio/src/libopus/src/../celt/../include/opus_types.h \
+ .pio/libdeps/esp32-s3-devkitm-1/ESP8266Audio/src/libopus/src/../celt/opus_defines.h \
+ .pio/libdeps/esp32-s3-devkitm-1/ESP8266Audio/src/libopus/src/../celt/../include/opus_defines.h \
+ .pio/libdeps/esp32-s3-devkitm-1/ESP8266Audio/src/libopus/src/../celt/fixed_generic.h \
+ .pio/libdeps/esp32-s3-devkitm-1/ESP8266Audio/src/libopus/src/celt.h \
+ .pio/libdeps/esp32-s3-devkitm-1/ESP8266Audio/src/libopus/src/../celt/celt.h \
+ .pio/libdeps/esp32-s3-devkitm-1/ESP8266Audio/src/libopus/src/../celt/opus_custom.h \
+ .pio/libdeps/esp32-s3-devkitm-1/ESP8266Audio/src/libopus/src/../celt/../include/opus_custom.h \
+ .pio/libdeps/esp32-s3-devkitm-1/ESP8266Audio/src/libopus/src/../celt/../include/opus_defines.h \
+ .pio/libdeps/esp32-s3-devkitm-1/ESP8266Audio/src/libopus/src/../celt/entenc.h \
+ .pio/libdeps/esp32-s3-devkitm-1/ESP8266Audio/src/libopus/src/../celt/entcode.h \
+ .pio/libdeps/esp32-s3-devkitm-1/ESP8266Audio/src/libopus/src/../celt/ecintrin.h \
+ .pio/libdeps/esp32-s3-devkitm-1/ESP8266Audio/src/libopus/src/../celt/arch.h \
+ .pio/libdeps/esp32-s3-devkitm-1/ESP8266Audio/src/libopus/src/../celt/entdec.h

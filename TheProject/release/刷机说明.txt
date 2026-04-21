@@ -1,0 +1,21 @@
+AdvanceOS 本机构建固件（M5Stack StampS3 / Cardputer 工程配置）
+生成时间以文件修改日期为准。
+
+【文件夹内文件】
+1) AdvanceOS-M5Cardputer-StampS3-firmware.bin
+   应用程序镜像。用 ESP Flash Download Tool 等工具烧录时，必须填写与工程分区表一致的「App 起始地址」
+   （见上级目录 AdvanceOS.csv；常见为 0x10000，请以你当前设备/分区工具解析结果为准）。
+
+2) bootloader.bin、partitions.bin
+   与本次编译配套。完整首刷时通常需要：bootloader + 分区表 + app，三个文件按各自官方偏移写入。
+
+3) AdvanceOS-M5Cardputer-bootloader+firmware.bin
+   仅为 bootloader.bin 与 firmware.bin 的简单首尾拼接，不是 esptool 的标准整包格式。
+   一般不建议直接使用；优先用 1）+ 官方工具按分区烧录。
+
+【更省事的安装方式】
+优先参考仓库根目录 README：M5Burner、Launcher 或官方 Release 中的说明。
+
+【固件来源】
+在 TheProject 目录执行: pio run
+输出位于 .pio/build/esp32-s3-devkitm-1/，本 release 目录为便于拷贝的副本。
