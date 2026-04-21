@@ -1,0 +1,2 @@
+# cardputer-wechat
+ai生成的可以用M5cardputer来连接wifi，然后二维码扫连接ilink，然后可以发送接收文字消息，因为微信限制，只能一对一定点接收发送，参考了m5claw
